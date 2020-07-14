@@ -1,0 +1,23 @@
+# Client Files.
+Screenshots/*
+Codigo/*.log
+*.vbw
+*.oca
+*.csi
+*.lvw
+*.OBJ
+INIT/*
+Recursos/*
+MP3/*
+Midi/*
+
+# System Files.
+.DS_Store
+Thumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.lnk
+*.stackdump
+*.exe
+*.rar
+*.zip

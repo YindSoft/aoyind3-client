@@ -1,0 +1,67 @@
+[Version]
+Version=3.0.0.8
+
+[AoYindCliente.exe <000A>]
+Dest=$(AppPath)
+Date=20/03/2012
+Time=23:14
+Version=3.0.0.8
+CABFilename=AoYindCliente.CAB
+CABINFFile=AoYindCliente.INF
+Uses1=msvbvm60.dll
+Uses2=oleaut32.dll
+Uses3=olepro32.dll
+Uses4=asycfilt.dll
+Uses5=stdole2.tlb
+Uses6=COMCAT.DLL
+Uses7=msvbvm50.dll
+Uses8=msimg32.dll
+Uses9=zlib.dll
+Uses10=ijl11.dll
+Uses11=ws2_32.dll
+Uses12=scrrun.dll
+Uses13=dx8vb.dll
+Uses14=quartz.dll
+Uses15=ieframe.dll
+
+[msimg32.dll <000A>]
+Dest=$(WinSysPath)
+Date=13/07/2009
+Time=22:15
+Version=6.1.7600.16385
+
+[zlib.dll <000A>]
+Dest=$(WinSysPath)
+Date=04/05/2009
+Time=12:59
+Version=1.1.4.0
+
+[ijl11.dll <000A>]
+Dest=$(WinSysPath)
+Date=18/08/1999
+Time=09:54
+Version=1.1.2.16
+
+[ws2_32.dll <000A>]
+Dest=$(WinSysPath)
+Date=20/11/2010
+Time=09:21
+Version=6.1.7601.17514
+
+[dx8vb.dll <000A>]
+Dest=$(WinSysPath)
+Date=17/10/2006
+Time=03:16
+Version=5.3.2600.2180
+
+[quartz.dll <000A>]
+Dest=$(WinSysPath)
+Date=26/10/2011
+Time=01:32
+Version=6.6.7601.17713
+
+[ieframe.dll <000A>]
+Dest=$(WinSysPath)
+Date=14/12/2011
+Time=00:10
+Version=9.0.8112.16441

@@ -1,0 +1,195 @@
+[Root]
+Most Recent Package=Archivo .dep 2
+
+
+[Package|Archivo .dep 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Users\Javier\Documents\Ao\Cliente
+
+[Package|Archivo .dep 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Archivo .dep 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Archivo .dep 1|Files Found]
+
+[Package|Archivo .dep 1|Files Released]
+MSCmCES.dll=
+InetES.dll=
+ScrrnES.dll=
+msvbvm50.dll=
+VB6ES.dll=
+
+[Package|Archivo .dep 1|Missing Dependency Information]
+C:\Windows\SysWOW64\ieframe.dll=
+C:\Windows\SysWOW64\Cswsk32.ocx=
+C:\Windows\SysWOW64\quartz.dll=
+C:\Windows\SysWOW64\dx8vb.dll=
+C:\Users\Javier\Documents\Ao\Cliente\ijl11.dll=
+C:\Users\Javier\Documents\Ao\Cliente\zlib.dll=
+C:\Windows\System32\msimg32.dll=
+
+[Package|Archivo .dep 1|Out-of-Date Dependency Information]
+C:\Windows\SysWOW64\MSCOMCTL.OCX=
+C:\Windows\SysWOW64\MSINET.OCX=
+C:\Windows\SysWOW64\scrrun.dll=
+
+[Package|Archivo .dep 1|Files Added]
+
+[Package|Archivo .dep 1|Files Removed]
+
+[Package|Archivo .dep 1|Files In Project]
+C:\Users\Javier\Documents\Ao\Cliente\AoYindCliente.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\oleaut32.dll=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\olepro32.dll=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\asycfilt.dll=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\stdole2.tlb=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\msimg32.dll=Yes
+C:\Users\Javier\Documents\Ao\Cliente\zlib.dll=Yes
+C:\Users\Javier\Documents\Ao\Cliente\ijl11.dll=Yes
+C:\Windows\SysWOW64\scrrun.dll=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\msvcrt.dll=Yes
+C:\Windows\SysWOW64\dx8vb.dll=Yes
+C:\Windows\SysWOW64\quartz.dll=Yes
+C:\Windows\SysWOW64\MSINET.OCX=Yes
+C:\Windows\SysWOW64\MSCOMCTL.OCX=Yes
+C:\Windows\SysWOW64\Cswsk32.ocx=Yes
+C:\Windows\SysWOW64\ieframe.dll=Yes
+
+[Package|Archivo .dep 1|Configure Registry Files]
+Applicable=
+
+[Package|Archivo .dep 1|Configure Remote Servers]
+Applicable=
+
+[Package|Archivo .dep 1|Install Locations]
+C:\Users\Javier\Documents\Ao\Cliente\AoYindCliente.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\oleaut32.dll=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\olepro32.dll=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\asycfilt.dll=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\msimg32.dll=$(WinSysPath)
+C:\Users\Javier\Documents\Ao\Cliente\zlib.dll=$(WinSysPath)
+C:\Users\Javier\Documents\Ao\Cliente\ijl11.dll=$(WinSysPath)
+C:\Windows\SysWOW64\scrrun.dll=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\msvcrt.dll=$(WinSysPathSysFile)
+C:\Windows\SysWOW64\dx8vb.dll=$(WinSysPath)
+C:\Windows\SysWOW64\quartz.dll=$(WinSysPath)
+C:\Windows\SysWOW64\MSINET.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMCTL.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\Cswsk32.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\ieframe.dll=$(WinSysPath)
+
+[Package|Archivo .dep 1|Configure Shared Files]
+Applicable=
+
+[Package|Archivo .dep 1|DepFile]
+DepCabFile=AoYindCliente.CAB
+DepCabRun=AoYindCliente.INF
+
+[Package|Archivo .dep 1|Package]
+PackageFolder=C:\Users\Javier\Documents\Ao\Cliente
+ProjectFolder=C:\Users\Javier\Documents\Ao\Cliente
+ServerSideCab=
+File1=C:\Users\Javier\Documents\Ao\Cliente\AoYindCliente.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Archivo .dep 2|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Users\Javier\Documents\Ao\Cliente
+
+[Package|Archivo .dep 2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Archivo .dep 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Archivo .dep 2|Files Found]
+
+[Package|Archivo .dep 2|Files Released]
+ScrrnES.dll=
+VB6ES.dll=
+
+[Package|Archivo .dep 2|Missing Dependency Information]
+C:\Windows\SysWOW64\ieframe.dll=
+C:\Windows\SysWOW64\quartz.dll=
+C:\Windows\SysWOW64\dx8vb.dll=
+C:\Windows\System32\ws2_32.dll=
+C:\Users\Javier\Documents\Ao\Cliente\ijl11.dll=
+C:\Users\Javier\Documents\Ao\Cliente\zlib.dll=
+C:\Windows\System32\msimg32.dll=
+
+[Package|Archivo .dep 2|Out-of-Date Dependency Information]
+C:\Windows\SysWOW64\scrrun.dll=
+
+[Package|Archivo .dep 2|Files Added]
+
+[Package|Archivo .dep 2|Files Removed]
+
+[Package|Archivo .dep 2|Files In Project]
+C:\Users\Javier\Documents\Ao\Cliente\AoYindCliente.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\oleaut32.dll=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\olepro32.dll=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\asycfilt.dll=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\stdole2.tlb=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\msvbvm50.dll=Yes
+C:\Windows\System32\msimg32.dll=Yes
+C:\Users\Javier\Documents\Ao\Cliente\zlib.dll=Yes
+C:\Users\Javier\Documents\Ao\Cliente\ijl11.dll=Yes
+C:\Windows\System32\ws2_32.dll=Yes
+C:\Windows\SysWOW64\scrrun.dll=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\msvcrt.dll=Yes
+C:\Windows\SysWOW64\dx8vb.dll=Yes
+C:\Windows\SysWOW64\quartz.dll=Yes
+C:\Windows\SysWOW64\ieframe.dll=Yes
+
+[Package|Archivo .dep 2|Configure Registry Files]
+Applicable=
+
+[Package|Archivo .dep 2|Configure Remote Servers]
+Applicable=
+
+[Package|Archivo .dep 2|Install Locations]
+C:\Users\Javier\Documents\Ao\Cliente\AoYindCliente.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\oleaut32.dll=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\olepro32.dll=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\asycfilt.dll=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\msvbvm50.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msimg32.dll=$(WinSysPath)
+C:\Users\Javier\Documents\Ao\Cliente\zlib.dll=$(WinSysPath)
+C:\Users\Javier\Documents\Ao\Cliente\ijl11.dll=$(WinSysPath)
+C:\Windows\System32\ws2_32.dll=$(WinSysPath)
+C:\Windows\SysWOW64\scrrun.dll=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\msvcrt.dll=$(WinSysPathSysFile)
+C:\Windows\SysWOW64\dx8vb.dll=$(WinSysPath)
+C:\Windows\SysWOW64\quartz.dll=$(WinSysPath)
+C:\Windows\SysWOW64\ieframe.dll=$(WinSysPath)
+
+[Package|Archivo .dep 2|Configure Shared Files]
+Applicable=
+
+[Package|Archivo .dep 2|DepFile]
+DepCabFile=AoYindCliente.CAB
+DepCabRun=AoYindCliente.INF
+
+[Package|Archivo .dep 2|Package]
+PackageFolder=C:\Users\Javier\Documents\Ao\Cliente
+ProjectFolder=C:\Users\Javier\Documents\Ao\Cliente
+ServerSideCab=
+File1=C:\Users\Javier\Documents\Ao\Cliente\AoYindCliente.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
