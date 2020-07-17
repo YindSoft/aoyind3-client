@@ -1,8 +1,8 @@
 Type=Exe
-Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\..\..\WINDOWS\SysWOW64\stdole2.tlb#OLE Automation
-Reference=*\G{420B2830-E718-11CF-893D-00A0C9054228}#1.0#0#..\..\..\..\..\..\Windows\SysWOW64\scrrun.dll#Microsoft Scripting Runtime
-Reference=*\G{E1211242-8E94-11D1-8808-00C04FC2C603}#1.0#0#..\..\..\..\..\..\WINDOWS\SysWow64\dx8vb.dll#DirectX 8 for Visual Basic Type Library
-Reference=*\G{56A868B0-0AD4-11CE-B03A-0020AF0BA770}#1.0#0#..\..\..\..\..\..\Windows\System32\quartz.dll#ActiveMovie control type library
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\WINDOWS\SysWOW64\stdole2.tlb#OLE Automation
+Reference=*\G{420B2830-E718-11CF-893D-00A0C9054228}#1.0#0#C:\Windows\SysWOW64\scrrun.dll#Microsoft Scripting Runtime
+Reference=*\G{E1211242-8E94-11D1-8808-00C04FC2C603}#1.0#0#C:\WINDOWS\SysWow64\dx8vb.dll#DirectX 8 for Visual Basic Type Library
+Reference=*\G{56A868B0-0AD4-11CE-B03A-0020AF0BA770}#1.0#0#C:\Windows\System32\quartz.dll#ActiveMovie control type library
 Module=Application; CODIGO\Application.bas
 Module=Carteles; CODIGO\Carteles.bas
 Class=cDIBSection; CODIGO\cDIBSection.cls

@@ -945,10 +945,10 @@ Sub Main()
     ' Load the form for screenshots
     Call Load(frmScreenshots)
     
-    If True Then 'ipx
-        IpServidor = "24.232.234.134" 'javiercasa.no-ip.info aoyind.ddns.net
+    If False Then 'ipx
+        IpServidor = "ip publica"
     Else
-        IpServidor = frmMain.Client.LocalIP
+        IpServidor = frmMain.Client.LocalIP 'localhost
     End If
     
     'IpServidor = "aoyind3.no-ip.org" ' frmMain.Client.LocalIP ' "aoyind3.no-ip.org" ' "javiercasa.no-ip.info"  "aoyind3.no-ip.org" ' 'frmMain.Client.LocalIP '
