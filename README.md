@@ -19,7 +19,7 @@ git clone https://github.com/YindSoft/aoyind3-resources.git
 
 
 Para el cliente es necesario copiar los siguientes archivos/carpetas:
-
+```
 Recursos/*
 INIT/*
 MP3/*
@@ -29,7 +29,20 @@ Midi/*
 Los mapas tienen que copiarlos de la carpeta maps a la carpeta recursos.
 Maps/Mapa1.AO -> Recursos/Mapa1.Ao
 Maps/Mapa2.AO -> Recursos/Mapa2.Ao
+```
 
+
+Para poder configurar una IP diferente a localhost en el juego busquen en el modulo Mod_General estas lineas:
+
+```
+If False Then 'ipx
+    IpServidor = "ip publica"
+Else
+    IpServidor = frmMain.Client.LocalIP 'localhost
+End If
+```
+
+Posiblemente se cambie en el futuro eso ya que esta hardcodeado para testing basicamente.
 
 
 ## F.A.Q:
